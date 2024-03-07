@@ -15,6 +15,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Desenvolvi uma calculadora simples para calcular o Índice de Massa Corporal (IMC). Este projeto foi desenvolvido como uma oportunidade para aplicar os meus conhecimentos adquiridos em JavaScript."
+Desenvolvi uma calculadora simples para calcular o Índice de Massa Corporal (IMC). Este projeto foi desenvolvido como uma oportunidade para aplicar os meus conhecimentos adquiridos em JavaScript.
 
 <p>Feito por Max Henrique.</p> 
