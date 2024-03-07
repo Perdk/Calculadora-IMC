@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+    box-sizing: border-box;
+}
+
+
+main {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    border: solid ;
+    padding: 40px;
+    border-radius: 10px;
+    background-color: #1557;
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+    border-bottom: 5px solid;
+}
+
+.inputs input{
+    border-radius: 5px;
+    height: 50px;
+    border: none;
+}
+
+.inputs label{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font: bold;
+    margin-bottom: 15px;
+    font-size: 150%;
+}
+
+#calcular{
+    margin-top: 20px;
+    padding: 10px;
+    cursor: pointer;
+    width: 300px;
+    border-radius: 6px;
+    background-color: #898986;
+    font-weight: bold;
+    font-size: 100%;
+    border: none;
+}
+
+#calcular:hover{
+    transform: scale(1.1);
+}
+
+.result {
+    display: flex;
+    margin-top: 20px;
+    align-items: center;
+    width: 300px;
+    height: 150px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px black;
+    background: #000;
+    color: white;
+    padding: 20px;
+}
+
+
+
+/* SÓ FALTA O JS AGR, VOU VE SE FAÇO USANDO OBJETO (ACHO Q O VIDEO N VAI USAR)
+
